@@ -1,0 +1,23 @@
+23-02-22 11:30:37.630  Started
+23-02-22 11:30:37.630  With command line: C:\Users\jean philippe akichi\Downloads\fireshot-chrome-plugin.exe 
+23-02-22 11:30:37.640  Target engine is: Chromium
+23-02-22 11:30:37.649  Using folder for deployment: C:\Users\jean philippe akichi\AppData\Roaming\FireShot\0.99.15
+23-02-22 11:30:37.649  Created directory with result: 1
+23-02-22 11:30:37.649  Copying myself...
+23-02-22 11:30:37.685  Extracting manifest...
+23-02-22 11:30:37.820  Written 642 bytes
+23-02-22 11:30:37.820  Done
+23-02-22 11:30:37.820  Writing registry...
+23-02-22 11:30:37.820  Successfully registered to HKEY_CURRENT_USER
+23-02-22 11:30:41.665  Started
+23-02-22 11:30:41.665  With command line: C:\Users\jean philippe akichi\Downloads\fireshot-chrome-plugin.exe 
+23-02-22 11:30:41.665  Target engine is: Chromium
+23-02-22 11:30:41.680  Using folder for deployment: C:\Users\jean philippe akichi\AppData\Roaming\FireShot\0.99.15
+23-02-22 11:30:41.680  Created directory with result: 1
+23-02-22 11:30:41.680  Copying myself...
+23-02-22 11:30:41.680  Target Native host already exists, nothing to copy.
+23-02-22 11:30:41.680  Extracting manifest...
+23-02-22 11:30:41.690  Written 642 bytes
+23-02-22 11:30:41.690  Done
+23-02-22 11:30:41.690  Writing registry...
+23-02-22 11:30:41.700  Successfully registered to HKEY_CURRENT_USER
